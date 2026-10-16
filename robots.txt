@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nehagrwal.github.io/global-health-farms-cbd-gummies/sitemap.xml
+Sitemap: https://global-health-farms-cbd-gummies.vercel.app/sitemap-vercel.xml
+Sitemap: https://global-health-farms-cbd-gummies.pages.dev/sitemap-cloudflare.xml
